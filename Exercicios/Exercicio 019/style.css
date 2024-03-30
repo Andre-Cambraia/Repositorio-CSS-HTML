@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'StarWars';
+  src: url("fontes/Starjedi.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Transformers';
+    src: url("fontes/Transformers\ Movie.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+body {
+  font-family: "", sans-serif;
+}
+
+h1 {
+  font-family: "", sans-serif;
+}

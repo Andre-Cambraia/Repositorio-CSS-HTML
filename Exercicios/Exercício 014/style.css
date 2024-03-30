@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    background-color: darkgray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: left;
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    text-align: left;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+}
